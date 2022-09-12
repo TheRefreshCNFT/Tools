@@ -1,3 +1,8 @@
+Function:
+Convert one or multiple .html files to Base64 Data URIs. There are tools available online 
+that perform the same action but this tool is faster for converting multiple files. 
+
+Instructions:
 Save the Base64Convert.html file or copy it to your own HTML document.
 
 Open the file to edit it.

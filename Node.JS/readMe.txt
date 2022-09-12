@@ -1,3 +1,9 @@
+Function:
+Minify all .html files in the specified directory, can be one or multiple files. There are tools available online that perform 
+the same action but this is faster for multiple files. 
+
+
+Instructions:
 Save the file or copy the text to your own .ps1 file.
 
 Open the file to edit it.
