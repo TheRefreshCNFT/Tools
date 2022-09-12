@@ -4,9 +4,9 @@ Download the file or copy the text into your own .ps1 file.
 
 Open the file to edit it.
 
-Set the $name variable at the top to the name you want the output files to have.
+Set the $name variable to the name you want the output files to have.
 
-Set the path to where the template file is in the $spath variable.
+Set the path to the template file in the $spath variable.
 
 Set the output location in the $opath variable.
 
