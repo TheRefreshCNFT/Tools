@@ -29,8 +29,7 @@ $text = "/steps_per_rotation"
 In the 5variable scripts there is a color variable already setup. If you want to add or change a variable on the 1 or 2 variable scripts you can copy from here:
 $color1 = "#{0:X6}" -f (Get-Random -Maximum 0xFFFFFF) or from the 5variable scripts.
 
-In the script template file after -Replace is the variable in your code you want updated. If you use var for variables in your code just change the next word to your variable name.
-If you use const for variables change var to const in the script as well. Leave all the other characters as is.
+In the script template file after -Replace is the variable in your code you want updated. If you use var for variables in your code just change the next word to your variable name. If you use const for variables change var to const in the script as well. Leave all the other characters as is.
 
 The script is setup to generate 5 new files.
 If you want to create more or less than five and you are using the version labelled "Same" change the number in the for loop after -le.
