@@ -1,1 +1,1 @@
-This is a library of tools that can be used to help create NFT projects that are done in code. 
+This is a library of tools that can be used to help create NFT projects that are done in code. These tools will be improved and new ones will be added over time. 
