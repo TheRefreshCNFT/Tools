@@ -19,7 +19,7 @@ Select the all the files to convert.
 
 Click Open after all files are selected.
 
-Specify the save location.
+Set the save location.
 
 Leave the name as is.
 
