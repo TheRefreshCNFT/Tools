@@ -30,7 +30,7 @@ Then update the last number before .html on all the new lines of code.
 
 Once everything configured save the changes.
 
-Right click the file script file and select Run with Powershell.
+Right click the .ps1 script file and select Run with Powershell.
 
 The new files should now be in the output directory.
 

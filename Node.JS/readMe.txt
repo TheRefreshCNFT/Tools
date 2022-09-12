@@ -1,4 +1,4 @@
-Save the file or copy the text to your own file.
+Save the file or copy the text to your own .ps1 file.
 
 Open the file to edit it.
 
@@ -11,6 +11,6 @@ Add or remove any parameters needed.
 
 Save changes.
 
-Right click the file select Run with Powershell.
+Right click the MinifyHTML.ps1 file select Run with Powershell.
 
 Minified files should be in the output directory now.
