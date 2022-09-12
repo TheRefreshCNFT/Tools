@@ -1,0 +1,1 @@
+This is a basic HTML template with comments. You can download the file or copy the text and paste into your own .html file.

@@ -1,16 +1,20 @@
-Download Base64Convert.html
+Save the Base64Convert.html file or copy it to your own HTML document.
 
-Edit the ProjectName to suit your purposes then save the change
+Open the file to edit it.
 
-Launch the file in your browser
+Edit the pn variable at the very beginning of the opening script tag to set your project name.
 
-Click Choose Files
+Save the changes.
 
-Select the files to convert
+Launch the file in your browser.
 
-Click Open after all files are selected
+Click Choose Files.
 
-Click Save at the prompt for each file
+Select the all the files to convert.
 
-All files will be saved in the specified location converted to a base64 data uri.
+Click Open after all files are selected.
+
+Click Save at the prompt for each file.
+
+All files should now be saved in the specified location converted to a base64 data uri.
 

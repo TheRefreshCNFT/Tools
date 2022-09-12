@@ -2,6 +2,9 @@
 <html>
 <head>
   <script>
+  //Change ProjectName
+  var pn = "ProjectName.txt";
+
     var _global = typeof window === 'object' && window.window === window
       ? window : typeof self === 'object' && self.self === self
       ? self : typeof global === 'object' && global.global === global
@@ -185,7 +188,7 @@
             function saveStaticDataToFile() {
                       var blob = new Blob([reader.result],
                           { type: "text/plain;charset=utf-8" });
-                      saveAs(blob, "ProjectName.txt");
+                      saveAs(blob, pn);
                   }
             saveStaticDataToFile();
             // Logs data:<type>;base64,wL2dvYWwgbW9yZ...
