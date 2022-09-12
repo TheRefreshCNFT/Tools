@@ -1,6 +1,6 @@
 Function:
-Update variables in .html files. Take a base projectTemplate.html file and point the $spath to that file. The variables you specify in the script will be updated 
-with whatever range, color, or text you set for the variables. If you want to create a project with 100 NFTs you can create one file and then run this script 
+Update variables in .html files. Take a base template.html file and point the $spath variable in the script to that file. The variables you specify will be updated 
+with whatever range, color, or text you set. If you want to create a project with 100 NFTs you can create one file and then run this script 
 to generate 100 projectNameXXX.html files with the variables randomly set. You can also run in small batches for themes within a project 25 of one theme, 10 of another, 
 and so on. 
 
