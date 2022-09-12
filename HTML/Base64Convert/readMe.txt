@@ -19,7 +19,11 @@ Select the all the files to convert.
 
 Click Open after all files are selected.
 
-Click Save at the prompt for each file.
+Specify the save location.
+
+Leave the name as is.
+
+Click Save at the prompt for each file. (annoying but goes fast.)
 
 All files should now be saved in the specified location converted to a base64 data uri.
 
