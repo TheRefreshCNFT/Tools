@@ -1,6 +1,6 @@
 $name = "4Fre5h"
-$spath = "G:\My Drive\HP Laptop\Projects\CNFTs\InProgress\JS\4fre5h\workint\Test\test\template.html"
-$opath = "G:\My Drive\HP Laptop\Projects\CNFTs\InProgress\JS\4fre5h\workint\Test\test\"
+$spath = "G:\Path\To\File\template.html"
+$opath = "G:\Path\To\Folder\"
 $text = "additionalText"
 
 
