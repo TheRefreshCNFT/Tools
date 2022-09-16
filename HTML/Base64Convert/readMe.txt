@@ -27,5 +27,7 @@ Click Save at the prompt for each file. (annoying but goes fast.)
 
 All files should now be saved in the specified location converted to Base64.
 
-Some minters/minting platforms will require Base64 content as string which is what this tool does. If that's all you need you're good to go. If you're required to JSON format your Base64 content with quotes and commas you can use this FormatBase64 tool https://github.com/TheRefreshCNFT/Tools/tree/master/Powershell/FormatBase64.
+Some minters/minting platforms will require Base64 content as string which is what this tool does. If that's all you need you're good to go.
+
+If you're required to JSON format your Base64 content with quotes and commas you can use this FormatBase64 tool https://github.com/TheRefreshCNFT/Tools/tree/master/Powershell/FormatBase64.
 
