@@ -11,4 +11,5 @@ Example of how to use these tools:
 6. Download or make a copy of the MinifyHTML scripts.
 7. Use the MinifyHTML script to minify all the .html files output by the Powershell UpdateVariable script.
 8. Download or make a copy of the Base64Convert tool.
-9. Use the Base64Convert tool to convert the .html files to Base64 Data URIs.
+9. Use the Base64Convert tool to convert the .html files to Base64 strings.
+10. If required by your minter/platform to JSON format your Base64 strings use formatBase64.ps1 in the Powershell directory.
