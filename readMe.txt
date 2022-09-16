@@ -1,4 +1,5 @@
-This is a library of tools that can be used to help create NFT projects that are done in code. These tools will be improved and new ones will be added over time.
+This is a library of tools that can be used to help create NFT projects that are done in code. The tools can be used for onchain and IPFS code based mints. These tools will be improved and new ones will be added over time.
+
 
 Example of how to use these tools:
 1. Download or make a copy of the HTML template.
