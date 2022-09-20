@@ -42,3 +42,6 @@ Right click the .ps1 script file and select Run with Powershell.
 
 The new files should now be in the output directory.
 
+Notes:
+I left extra variables created at the top of a couple of the .ps1 files that are not used in the code that runs. I did that so people can see different types of options that are available. Any variable can swapped out or updated to suit your purpose.
+
