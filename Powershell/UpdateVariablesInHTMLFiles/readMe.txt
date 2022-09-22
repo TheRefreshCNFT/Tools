@@ -32,7 +32,7 @@ $color1 = "#{0:X6}" -f (Get-Random -Maximum 0xFFFFFF) or from the 5variable scri
 In the script template file after -Replace is the variable in your code you want updated. If you use var for variables in your code just change the next word to your variable name. If you use const for variables change var to const in the script as well. Leave all the other characters as is.
 
 The script is setup to generate 5 new files.
-If you want to create more or less than five and you are using the version labelled "Same" change the number in the for loop after -le.
+If you want to create more or less than 5 and you are using the version labelled "Same" change the $count variable at the top of the script.
 If you are using the version labelled different either remove lines or copy lines and paste as many times until you reach the desired output count.
 Then update the last number before .html on all the new lines of code.
 
