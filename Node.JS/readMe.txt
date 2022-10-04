@@ -3,7 +3,7 @@ Minify all .html files in the specified directory, can be one or multiple files.
 the same action but this is faster for multiple files.
 
 Requirements:
-Node.js/NPM will need to be installed and then this script can be run in powershell.
+Node.js/NPM will need to be installed first. Next run npm install html-minifier -g to install the minifier. Then this script can be run in powershell.
 
 
 Instructions:
