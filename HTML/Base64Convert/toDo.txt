@@ -1,1 +1,0 @@
-Add auto save in a specified location instead of prompts for each file.
