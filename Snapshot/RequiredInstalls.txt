@@ -1,7 +1,7 @@
 Download and install Python: https://www.python.org/downloads/
 
 
-Open your command line interface (Powershell/Terminal) and pip install the following
+Open a command line interface (Powershell/CMD) and pip install the following
 by running each command below:
 
 To install openpyxl run this command:
