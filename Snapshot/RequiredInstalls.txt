@@ -1,0 +1,14 @@
+Download and install Python: https://www.python.org/downloads/
+
+
+Open your command line interface (Powershell/Terminal) and pip install the following
+by running each command below:
+
+To install openpyxl run this command:
+pip install openpyxl
+
+To install pandas run this command:
+pip install pandas
+
+to install blockfrost-python run this command:
+pip install blockfrost-python
